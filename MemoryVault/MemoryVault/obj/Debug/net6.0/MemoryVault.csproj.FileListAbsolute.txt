@@ -1,0 +1,14 @@
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.Properties.Resources.resources
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.csproj.GenerateResource.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.AssemblyInfoInputs.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.AssemblyInfo.cs
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\net6.0\MemoryVault.deps.json
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\net6.0\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\net6.0\ref\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\net6.0\MemoryVault.pdb
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\ref\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.pdb
+C:\Users\Nestor\source\repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\net6.0\MemoryVault.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\netcoreapp3.1\MemoryVault.deps.json
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\netcoreapp3.1\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\bin\Debug\netcoreapp3.1\MemoryVault.pdb
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.csproj.AssemblyReference.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.Properties.Resources.resources
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.csproj.GenerateResource.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.AssemblyInfoInputs.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.AssemblyInfo.cs
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.dll
+C:\Users\Nestor\Source\Repos\Soyux\GFramework-2\Version 2\Backend\MemoryVault\MemoryVault\obj\Debug\netcoreapp3.1\MemoryVault.pdb
