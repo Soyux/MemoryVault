@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace UnitTests
+namespace MemoryVaultUnitTesting
 {
     public class Tests
     {
